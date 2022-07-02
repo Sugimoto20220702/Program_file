@@ -1,0 +1,4 @@
+﻿  ソース.cpp
+E:\solva書き込みプログラム\solva書き込みプログラム\ソース.cpp(103,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\solva書き込みプログラム\solva書き込みプログラム\ソース.cpp(105,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  solva書き込みプログラム.vcxproj -> E:\solva書き込みプログラム\Debug\solva書き込みプログラム.exe
