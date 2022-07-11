@@ -1,0 +1,10 @@
+D:\リバーシ\演習32\bin\Debug\リバーシ.exe.config
+D:\リバーシ\演習32\bin\Debug\リバーシ.exe
+D:\リバーシ\演習32\bin\Debug\リバーシ.pdb
+D:\リバーシ\演習32\obj\Debug\リバーシ.csproj.AssemblyReference.cache
+D:\リバーシ\演習32\obj\Debug\リバーシ.Form1.resources
+D:\リバーシ\演習32\obj\Debug\リバーシ.Properties.Resources.resources
+D:\リバーシ\演習32\obj\Debug\リバーシ.csproj.GenerateResource.cache
+D:\リバーシ\演習32\obj\Debug\リバーシ.csproj.CoreCompileInputs.cache
+D:\リバーシ\演習32\obj\Debug\リバーシ.exe
+D:\リバーシ\演習32\obj\Debug\リバーシ.pdb
