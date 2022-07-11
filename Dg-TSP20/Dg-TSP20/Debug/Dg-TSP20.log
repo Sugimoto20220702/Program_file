@@ -1,0 +1,4 @@
+﻿  ソース.cpp
+D:\院研究\Dg-TSP20\Dg-TSP20\ソース.cpp(121,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\院研究\Dg-TSP20\Dg-TSP20\ソース.cpp(122,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Dg-TSP20.vcxproj -> D:\院研究\Dg-TSP20\Debug\Dg-TSP20.exe
