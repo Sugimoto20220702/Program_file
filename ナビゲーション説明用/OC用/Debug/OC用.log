@@ -1,0 +1,23 @@
+﻿  ソース.cpp
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(110,6): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(109,16): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(176,6): warning C4101: 'num1': ローカル変数は 1 度も使われていません。
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(176,12): warning C4101: 'num2': ローカル変数は 1 度も使われていません。
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(410,29): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(410,23): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(474,32): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(474,22): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(477,29): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(477,21): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(478,29): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(478,21): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(479,29): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(479,21): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(480,29): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(480,21): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(409,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(473,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(295,15): warning C4101: 'm': ローカル変数は 1 度も使われていません。
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(373,10): warning C4101: 'filename': ローカル変数は 1 度も使われていません。
+F:\最短経路プログラム\OC用\OC用\ソース.cpp(374,6): warning C4101: 'num': ローカル変数は 1 度も使われていません。
+  OC用.vcxproj -> F:\最短経路プログラム\OC用\Debug\OC用.exe

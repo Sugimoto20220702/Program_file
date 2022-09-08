@@ -1,0 +1,21 @@
+﻿  ソース.cpp
+D:\最短経路プログラム\OC用pngなし\OC用\ソース.cpp(69,6): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+D:\最短経路プログラム\OC用pngなし\OC用\ソース.cpp(68,16): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+D:\最短経路プログラム\OC用pngなし\OC用\ソース.cpp(135,6): warning C4101: 'num1': ローカル変数は 1 度も使われていません。
+D:\最短経路プログラム\OC用pngなし\OC用\ソース.cpp(135,12): warning C4101: 'num2': ローカル変数は 1 度も使われていません。
+D:\最短経路プログラム\OC用pngなし\OC用\ソース.cpp(338,29): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\最短経路プログラム\OC用pngなし\OC用\ソース.cpp(338,23): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\最短経路プログラム\OC用pngなし\OC用\ソース.cpp(402,32): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\最短経路プログラム\OC用pngなし\OC用\ソース.cpp(402,22): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\最短経路プログラム\OC用pngなし\OC用\ソース.cpp(405,29): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\最短経路プログラム\OC用pngなし\OC用\ソース.cpp(405,21): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\最短経路プログラム\OC用pngなし\OC用\ソース.cpp(406,29): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\最短経路プログラム\OC用pngなし\OC用\ソース.cpp(406,21): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\最短経路プログラム\OC用pngなし\OC用\ソース.cpp(407,29): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\最短経路プログラム\OC用pngなし\OC用\ソース.cpp(407,21): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\最短経路プログラム\OC用pngなし\OC用\ソース.cpp(408,29): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\最短経路プログラム\OC用pngなし\OC用\ソース.cpp(408,21): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\最短経路プログラム\OC用pngなし\OC用\ソース.cpp(337,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\最短経路プログラム\OC用pngなし\OC用\ソース.cpp(401,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\最短経路プログラム\OC用pngなし\OC用\ソース.cpp(254,15): warning C4101: 'm': ローカル変数は 1 度も使われていません。
+  OC用.vcxproj -> D:\最短経路プログラム\OC用pngなし\x64\Debug\OC用.exe
